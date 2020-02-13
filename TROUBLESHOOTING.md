@@ -4,7 +4,7 @@ If you're having issues signing into Digital Theatre+ using Single Sign On (SSO)
 
 1. Clear cache and cookies.  If you need instructions how to do this, please refer to https://clear-my-cache.com/
 2. Restart your computer
-3. Try a difference browser
+3. Try a different browser
 
 If the issue persists, please follow these steps to send information to Digital Theatre+.
 
