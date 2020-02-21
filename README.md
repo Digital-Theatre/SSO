@@ -1,1 +1,1 @@
-[Head over to the Wiki for documentation](https://github.com/Digital-Theatre/SSO/wiki)
+[Head over to the Digital Theatre+ Help website](https://help.digitaltheatreplus.com/)
